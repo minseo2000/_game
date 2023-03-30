@@ -1,16 +1,11 @@
-# block_puzzle_minseo
+cat block Game
 
-A new Flutter project.
+if you find bugs
 
-## Getting Started
+contact to me 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Park Minseo
+e-mail : qlqlxks123@naver.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
